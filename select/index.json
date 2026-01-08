@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "百足/Main dish (REMIX) YOSHIKI EZAKI, SHORI WINBOY, 百足",
+  "base_artist": "S",
+  "createdAt": "2026-01-08T12:28:20.452939Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moshi Moshi (feat. 百足) (Sped up)",
+      "artist": "Nozomi Kitay",
+      "has_synced": true,
+      "path": "select/01_Moshi_Moshi_(feat._百足)_(Sped_up)_Nozomi_Kitay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Campus (feat. 百足)",
+      "artist": "Juvenile",
+      "has_synced": true,
+      "path": "select/02_Campus_(feat._百足)_Juvenile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moshi Moshi (feat. 百足)",
+      "artist": "Nozomi Kitay",
+      "has_synced": true,
+      "path": "select/03_Moshi_Moshi_(feat._百足)_Nozomi_Kitay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "百足&韻マン - 君のまま",
+      "artist": "韻マン (inman)",
+      "has_synced": true,
+      "path": "select/04_百足&韻マン_-_君のまま_韻マン_(inman).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "百足",
+      "artist": "武藤昭平",
+      "has_synced": false,
+      "path": "select/pl_01_百足_武藤昭平.txt"
+    }
+  ]
+}
